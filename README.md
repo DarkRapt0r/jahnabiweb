@@ -47,17 +47,25 @@ I'm going to open source many of the tools developed for language computing from
 <!-- TODO-IST:END -->
 
 #### Names of some of the volunteers associated with the lone community project under PROJECT JAHNABI in 2013
-- Banajit Pathak
 - Diganta Saikia
-- Dwijen Mahanta
+- Banajit Pathak
+- Gitartha Bordoloi
+- Mridul Kr. Sarma
 - Pankajjyoti Mahanta
 - Dipankar Chetia
-- Mridul Kr Sharma
+- Anjal Borah
+- Dwijen Mahanta
+- Jaydeep Chakrabarty
+- Soumarjyoti Barua
+- Anjana Tamuli
+- Dwijendra Nath Sarma
+- Ayan Uttam
 - Uddip Talukdar
 - Deepa Deka
-- Ayan Uttam
+- Sarada Shrestha
+- Manjil Konwar
+- Anupam Kalita
 - Mayuri Dutta
-and many more.....
 <br/>
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
