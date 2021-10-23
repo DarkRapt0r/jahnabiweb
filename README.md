@@ -1,4 +1,4 @@
-<img src="https://github.com/DarkRapt0r/project-jahnabi-web/blob/87f5902cf5e0d988a24025a3e06ae5445765aea8/jahnabimulti.png" width="100px">
+<img src="https://github.com/DarkRapt0r/project-jahnabi-web/blob/87f5902cf5e0d988a24025a3e06ae5445765aea8/jahnabimulti.png?raw=true" width="100px">
 
 ### Welcome to Project JAHNABI
 
