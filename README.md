@@ -1,4 +1,4 @@
-<img src="https://github.com/DarkRapt0r/project-jahnabi-web/blob/7331fc3c57eafedeb234c2dda28fa7328be4fcff/jahnabimulti.png" width="100px">
+<img src="https://github.com/DarkRapt0r/project-jahnabi-web/blob/87f5902cf5e0d988a24025a3e06ae5445765aea8/jahnabimulti.png" width="100px">
 
 ### Welcome to Project JAHNABI
 
@@ -12,7 +12,7 @@
 **_So far NINE language software have been released, out of which only three are commercial ones. The rest SIX are freeware._**
 
 
-  <img align="right" alt="GIF" src="https://github.com/DarkRapt0r/project-jahnabi-web/blob/99d4a1d0f59d7ecbe5cf54c03c92c63cc187efac/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/DarkRapt0r/project-jahnabi-web/blob/87f5902cf5e0d988a24025a3e06ae5445765aea8/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? do reach, [Email](mailto:d.code.junkie@gmail.com) :)
 - 💬 Regarding assamese/ahom language computing, I'm happy to help;
